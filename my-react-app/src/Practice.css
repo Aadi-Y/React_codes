@@ -1,0 +1,7 @@
+.menu{
+    display: flex;
+    background-color: blue;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: start;
+}
